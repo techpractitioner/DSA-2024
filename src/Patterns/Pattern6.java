@@ -17,7 +17,7 @@ public class Pattern6 {
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in);
 		int n = scn.nextInt();
-		int nr = 2*n -1;
+		int nr = 2*n - 1;
 		int nst = 1;
 		//rows
 		int rows = 1;
