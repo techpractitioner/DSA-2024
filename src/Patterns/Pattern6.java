@@ -23,7 +23,7 @@ public class Pattern6 {
 		int rows = 1;
 		while(rows <= nr) {
 			//work
-			int cst =1;
+			int cst = 1;
 			while(cst <= nst) {
 				System.out.print('*');
 				cst++;
