@@ -26,7 +26,7 @@ public class Pattern6 {
 			int cst = 1;
 			while(cst <= nst) {
 				System.out.print('*');
-				cst++;
+				cst = cst + 1;
 			}
 			//prep
 			System.out.println();
