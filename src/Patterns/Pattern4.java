@@ -19,7 +19,7 @@ public class Pattern4 {
 		int rows = 1;
 		while(rows <= n) {
 			//spaces work
-			int csp =1;
+			int csp = 1;
 			while(csp <= nsp) {
 				System.out.print(" ");
 				csp++;
