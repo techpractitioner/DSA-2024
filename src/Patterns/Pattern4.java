@@ -14,7 +14,7 @@ public class Pattern4 {
 		Scanner scn = new Scanner(System.in);
 		int n = scn.nextInt();
 		int nst = 1;
-		int nsp = n-1;
+		int nsp = n - 1;
 		//rows
 		int rows = 1;
 		while(rows <= n) {
