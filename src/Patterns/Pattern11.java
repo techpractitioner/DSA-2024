@@ -1,13 +1,15 @@
 package Patterns;
 import java.util.Scanner;
-//input: 3
+//input: 5
 //output:
 
-//   1
-//  111
-// 11111
+//     1
+//    222
+//   33333
+//  4444444
+// 555555555
  
-public class Pattern10 {
+public class Pattern11 {
 
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in);
@@ -19,6 +21,7 @@ public class Pattern10 {
 		//row 
 		int row =1;
 		while(row <= n) {
+			val = row;
 			
 			//spaces work
 			for(int csp = 1; csp <= nsp; csp++) {
