@@ -17,7 +17,7 @@ public class Pattern13 {
 		int val = 1;
 		
 		//row 
-		int row =1;
+		int row = 1;
 		while(row <= n) {
 			
 			//spaces work
