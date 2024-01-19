@@ -40,8 +40,15 @@ public class ArrayDemo {
 		System.out.println(arr[4]);
 		
 		//print
-		for(int i= 0; i < arr.length; i++) {
+		for(int i = 0; i < arr.length; i++) {
 			System.out.println(arr[i]);
+		}
+		
+		//print with enhanced for loop
+		//this loop is not capable of printing the array values in reverse order    
+		//enhanced foor loop is read only and we can not update the values using this
+		for(int val:arr) {                  
+			System.out.println(val);
 		}
 		
 	}
