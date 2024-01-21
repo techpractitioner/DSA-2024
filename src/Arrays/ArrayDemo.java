@@ -3,7 +3,7 @@ package Arrays;
 
 // Arrays store homogeneous values or elements of the same type in continuous memory locations.
 // The new keyword allows us to allocate a memory location in the heap memory.
-// All indexes in the integer array contain the default value of 0 in Java
+// All indexes in the integer array contain the default value of 0 in Java.
 
 
 public class ArrayDemo {
