@@ -21,7 +21,9 @@ public class SubarrayWithGivenSum {
 		}
 		int start = 0, end = 0, currentSum = 0;
 		for(int i = 0; i < n; i++) {
-			
+			while(start <= end && sum < currentSum) {
+				if()
+			}
 		}
 	}
 
